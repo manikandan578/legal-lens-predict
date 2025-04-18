@@ -32,6 +32,13 @@ export default {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
 				},
+				legal: {
+					navy: '#192A56',
+					gold: '#C5A45C',
+					lightgold: '#E9D8A6',
+					charcoal: '#333F4F',
+					lightgray: '#F5F7FA'
+				},
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',
 					foreground: 'hsl(var(--destructive-foreground))'
